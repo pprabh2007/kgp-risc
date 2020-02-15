@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="ALU" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ADDER D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ADDER.v</ClosedNode>
+         <ClosedNode>/ALU C:|Users|Sodhi|ALU|ALU.v</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v/adder_module - ADDER</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v/comp_module - COMP</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v/multiplier_s_module - MULTIPLIER_S</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v/multiplier_u_module - MULTIPLIER_U</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v/shift_module - SHIFT</ClosedNode>
+         <ClosedNode>/COMP D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|COMPLEMENT.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder1 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder10 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder11 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder12 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder13 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder14 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder15 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder16 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder17 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder18 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder19 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder2 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder20 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder21 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder22 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder23 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder24 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder25 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder26 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder27 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder28 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder29 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder3 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder30 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder31 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder32 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder4 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder5 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder6 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder7 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder8 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/adder9 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S.v/comp - COMP</ClosedNode>
+         <ClosedNode>/MULTIPLIER_U D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_U_TB C:|Users|Sodhi|TESTING|MULTIPLIER_U_TB.v/uut - MULTIPLIER_U</ClosedNode>
+         <ClosedNode>/SHIFT D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT.v</ClosedNode>
+         <ClosedNode>/SHIFT D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT_16.v</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|ALU|nextInstruction.v/alu - ALU/adder_module - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|ALU|nextInstruction.v/alu - ALU/comp_module - COMP</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|ALU|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|ALU|nextInstruction.v/alu - ALU/multiplier_u_module - MULTIPLIER_U</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|ALU|nextInstruction.v/alu - ALU/shift_module - SHIFT</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/adder_module - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/comp_module - COMP</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder1 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder10 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder11 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder12 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder13 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder14 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder15 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder16 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder17 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder18 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder19 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder2 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder20 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder21 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder22 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder23 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder24 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder25 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder26 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder27 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder28 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder29 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder3 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder30 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder31 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder32 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder4 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder5 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder6 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder7 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder8 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/adder9 - ADDER</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_s_module - MULTIPLIER_S/comp - COMP</ClosedNode>
+         <ClosedNode>/nextInstruction C:|Users|Sodhi|TESTING|nextInstruction.v/alu - ALU/multiplier_u_module - MULTIPLIER_U</ClosedNode>
+         <ClosedNode>/nextInstruction D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|nextInstruction.v/alu - ALU</ClosedNode>
+         <ClosedNode>/nextInstruction E:|FPGA|ALU|nextInstruction.v/alu - ALU</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>nextInstruction (C:/Users/Sodhi/TESTING/nextInstruction.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000108000000020000000000000000000000000200000064ffffffff000000810000000300000002000001080000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>nextInstruction (C:/Users/Sodhi/TESTING/nextInstruction.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000012c000000010000000100000000000000000000000064ffffffff0000008100000000000000010000012c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000002d70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>SHIFT.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Synthesize - XST</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001ed000000010000000100000000000000000000000064ffffffff000000810000000000000001000001ed0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Synthesize - XST</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ADDER_TB C:|Users|Sodhi|ALU|ADDER_TB.v</ClosedNode>
+         <ClosedNode>/ADDER_TB C:|Users|Sodhi|TESTING|ADDER_TB.v</ClosedNode>
+         <ClosedNode>/ADDER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ADDER_TB.v</ClosedNode>
+         <ClosedNode>/ADDER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ADDER_TB.v/uut - ADDER</ClosedNode>
+         <ClosedNode>/ADDER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|ADDER_TB.v</ClosedNode>
+         <ClosedNode>/ALU D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU.v</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|ALU|ALU_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v/uut - ALU/adder_module - ADDER</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v/uut - ALU/comp_module - COMP</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v/uut - ALU/multiplier_s_module - MULTIPLIER_S</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v/uut - ALU/multiplier_u_module - MULTIPLIER_U</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v/uut - ALU/shift_module - SHIFT</ClosedNode>
+         <ClosedNode>/ALU_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|ALU_TB.v/uut - ALU</ClosedNode>
+         <ClosedNode>/ALU_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|ALU_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB E:|FPGA|ALU|ALU_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB C:|Users|Sodhi|ALU|AND_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB C:|Users|Sodhi|TESTING|AND_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|AND_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|AND_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB E:|FPGA|ALU|AND_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB C:|Users|Sodhi|ALU|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB C:|Users|Sodhi|TESTING|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB E:|FPGA|ALU|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB C:|Users|Sodhi|ALU|CLA_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB C:|Users|Sodhi|TESTING|CLA_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|CLA_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|CLA_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB E:|FPGA|ALU|CLA_TB.v</ClosedNode>
+         <ClosedNode>/COMP D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|COMPLEMENT.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB C:|Users|Sodhi|ALU|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB C:|Users|Sodhi|TESTING|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB E:|FPGA|ALU|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/DELAYED_CLOCK_TB C:|Users|Sodhi|TESTING|DELAYED_CLOCK_TB.v</ClosedNode>
+         <ClosedNode>/DELAYED_CLOCK_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|DELAYED_CLOCK_TB.v</ClosedNode>
+         <ClosedNode>/DELAYED_CLOCK_TB E:|FPGA|ALU|DELAYED_CLOCK_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB C:|Users|Sodhi|ALU|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB C:|Users|Sodhi|TESTING|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder1 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder10 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder11 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder12 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder13 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder14 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder15 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder16 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder17 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder18 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder19 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder2 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder20 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder21 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder22 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder23 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder24 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder25 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder26 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder27 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder28 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder29 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder3 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder30 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder31 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder32 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder4 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder5 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder6 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder7 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder8 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/adder9 - ADDER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_S_TB.v/uut - MULTIPLIER_S/comp - COMP</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB E:|FPGA|ALU|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB C:|Users|Sodhi|ALU|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB C:|Users|Sodhi|TESTING|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER_TB.v/uut - MULTIPLIER</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB E:|FPGA|ALU|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_U D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|MULTIPLIER.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_U_TB C:|Users|Sodhi|TESTING|MULTIPLIER_U_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB C:|Users|Sodhi|ALU|NOT_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB C:|Users|Sodhi|TESTING|NOT_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|NOT_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|NOT_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB E:|FPGA|ALU|NOT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB C:|Users|Sodhi|ALU|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB C:|Users|Sodhi|TESTING|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB E:|FPGA|ALU|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB C:|Users|Sodhi|ALU|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB C:|Users|Sodhi|TESTING|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT_TB.v/uut - SHIFT</ClosedNode>
+         <ClosedNode>/SHIFT_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB E:|FPGA|ALU|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb C:|Users|Sodhi|ALU|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb C:|Users|Sodhi|TESTING|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb E:|FPGA|ALU|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB C:|Users|Sodhi|ALU|XOR_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB C:|Users|Sodhi|TESTING|XOR_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|ALU|XOR_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|XOR_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB E:|FPGA|ALU|XOR_TB.v</ClosedNode>
+         <ClosedNode>/nextInstructionTB C:|Users|Sodhi|ALU|nextInstructionTB.v/uut - nextInstruction/alu - ALU</ClosedNode>
+         <ClosedNode>/nextInstructionTB C:|Users|Sodhi|TESTING|nextInstructionTB.v</ClosedNode>
+         <ClosedNode>/nextInstructionTB C:|Users|Sodhi|TESTING|nextInstructionTB.v/uut - nextInstruction/alu - ALU</ClosedNode>
+         <ClosedNode>/nextInstructionTB D:|Xilinx_ISE_DS_Win_14.7_1015_1|TESTING|nextInstructionTB.v</ClosedNode>
+         <ClosedNode>/nextInstruction_TB C:|Users|Sodhi|TESTING|nextInstruction_TB.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>nextInstructionTB (C:/Users/Sodhi/TESTING/nextInstructionTB.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >14</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>nextInstructionTB (C:/Users/Sodhi/TESTING/nextInstructionTB.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000001e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001ed000000010000000100000000000000000000000064ffffffff000000810000000000000001000001ed0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff000000000000000200000162000000d701000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000001e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001ed000000010000000100000000000000000000000064ffffffff000000810000000000000001000001ed0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ADDER_TB C:|Users|Sodhi|TESTING|ADDER_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|Sodhi|TESTING|ALU_TB.v</ClosedNode>
+         <ClosedNode>/AND_TB C:|Users|Sodhi|TESTING|AND_TB.v</ClosedNode>
+         <ClosedNode>/BOOTH_SHIFTER_TB C:|Users|Sodhi|TESTING|BOOTH_SHIFTER_TB.v</ClosedNode>
+         <ClosedNode>/CLA_TB C:|Users|Sodhi|TESTING|CLA_TB.v</ClosedNode>
+         <ClosedNode>/COMPLEMENT_TB C:|Users|Sodhi|TESTING|COMPLEMENT_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_S_TB C:|Users|Sodhi|TESTING|MULTIPLIER_S_TB.v</ClosedNode>
+         <ClosedNode>/MULTIPLIER_TB C:|Users|Sodhi|TESTING|MULTIPLIER_TB.v</ClosedNode>
+         <ClosedNode>/NOT_TB C:|Users|Sodhi|TESTING|NOT_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_MULTIPLY_TB C:|Users|Sodhi|TESTING|SHIFT_MULTIPLY_TB.v</ClosedNode>
+         <ClosedNode>/SHIFT_TB C:|Users|Sodhi|TESTING|SHIFT_TB.v</ClosedNode>
+         <ClosedNode>/Shift_1_tb C:|Users|Sodhi|TESTING|SHIFT_1_TB.v</ClosedNode>
+         <ClosedNode>/XOR_TB C:|Users|Sodhi|TESTING|XOR_TB.v</ClosedNode>
+         <ClosedNode>/nextInstructionTB C:|Users|Sodhi|TESTING|nextInstructionTB.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>nextInstructionTB (C:/Users/Sodhi/TESTING/nextInstructionTB.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >4</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>nextInstructionTB (C:/Users/Sodhi/TESTING/nextInstructionTB.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fe000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fe0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Post-Place &amp; Route Check Syntax</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fe000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fe0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Post-Place &amp; Route Check Syntax</CurrentItem>
+   </ItemView>
+</Project>

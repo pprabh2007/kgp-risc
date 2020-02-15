@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Sodhi\TESTING\nextInstruction.ncd
+OUTFILE=C:\Users\Sodhi\TESTING\nextInstruction.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Sodhi\TESTING
+LICENSE=WebPack
+USER_INFO=211795753_0_0_150
